@@ -88,9 +88,9 @@ def classify_tweet(tweet):
 * Se entrenó el modelo con el conjunto de datos de entrenamiento (`train.csv`) y se probó en el conjunto de datos de prueba (`test.csv`).
 * La clasificación se realizó con éxito y se obtuvo una alta precisión en la predicción de tweets relacionados con desastres.
 
-## Contribuciones
+## Informe del proyecto
 
-Este proyecto fue realizado por el grupo de estudiantes del curso **CC3066 – Data Science** de la Universidad del Valle de Guatemala.
+https://uvggt-my.sharepoint.com/:w:/g/personal/mej22596_uvg_edu_gt/EZVpUr-cmtNPtH2DnRat-AQBioj2B8axCAaCm-fyUllm9Q?e=vfZuoZ
 
 ## Referencias
 
